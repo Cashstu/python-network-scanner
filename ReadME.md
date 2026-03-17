@@ -33,7 +33,7 @@ The scanner will output active hosts and any open ports found.
 ## Requirements
 
 - Python 3.x
-- No external dependencies — uses built-in `socket` and `ipaddress` modules
+- No external dependencies - uses built-in `socket` and `ipaddress` modules
 
 ## What I Learned
 
